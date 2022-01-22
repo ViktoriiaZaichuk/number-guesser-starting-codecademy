@@ -1,1 +1,1 @@
-# number-guesser-starting-codecademy
+# Number guesser - codecademy project
